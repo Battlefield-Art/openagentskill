@@ -2332,6 +2332,226 @@
     ]
   },
   {
+    "skillSlug": "c8r-x0",
+    "repository": "c8r/x0",
+    "revision": "efc7bf58757a781da22b4ff534a640f7d69c89d8",
+    "sourceUrl": "https://github.com/c8r/x0/blob/efc7bf58757a781da22b4ff534a640f7d69c89d8/README.md",
+    "license": "MIT",
+    "licenseUrl": "/skill-previews/auto/LICENSE-cb0a770aca0b0b5d095ffe2c63235e825ef234a5652167e2ab360382d4661090.txt",
+    "licenseSourcePath": "LICENSE.md",
+    "licenseSha256": "cb0a770aca0b0b5d095ffe2c63235e825ef234a5652167e2ab360382d4661090",
+    "documentSha256": "48e367a9047d35b3aad8ec4f3843756f432de025e8db7c39ca1d7df0b0232d53",
+    "format": {
+      "en": "Animation · still preview",
+      "zh": "动图 · 静帧预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-11T07:17:26.547Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/04c8167473e58c06f913d3f73fe99dd25acbe7a55ce2d057cf92ae435d2ccc29.preview.webp",
+        "previewSrc": "/skill-previews/auto/04c8167473e58c06f913d3f73fe99dd25acbe7a55ce2d057cf92ae435d2ccc29.preview.webp",
+        "cardSrc": "/skill-previews/auto/04c8167473e58c06f913d3f73fe99dd25acbe7a55ce2d057cf92ae435d2ccc29.card.webp",
+        "width": 1600,
+        "height": 800,
+        "sha256": "04c8167473e58c06f913d3f73fe99dd25acbe7a55ce2d057cf92ae435d2ccc29",
+        "originalSrc": "/skill-previews/auto/04c8167473e58c06f913d3f73fe99dd25acbe7a55ce2d057cf92ae435d2ccc29.gif",
+        "sourceUrl": "https://github.com/c8r/x0/blob/efc7bf58757a781da22b4ff534a640f7d69c89d8/docs/hello-x0.gif",
+        "kind": "reference",
+        "title": {
+          "en": "X0 · Animation · still preview",
+          "zh": "X0 · 动图 · 静帧预览"
+        },
+        "alt": {
+          "en": "X0: hello-x0.gif",
+          "zh": "X0：hello-x0.gif"
+        },
+        "sourcePath": "docs/hello-x0.gif",
+        "documentPath": "README.md",
+        "format": "animation-poster"
+      }
+    ]
+  },
+  {
+    "skillSlug": "caioricciuti-duck-ui",
+    "repository": "caioricciuti/duck-ui",
+    "revision": "ac2a460cfbe97899b3daaed59c0b666b22fe801f",
+    "sourceUrl": "https://github.com/caioricciuti/duck-ui/blob/ac2a460cfbe97899b3daaed59c0b666b22fe801f/README.md",
+    "license": "MIT",
+    "licenseUrl": "/skill-previews/auto/LICENSE-5abaf3569a6e1b05a60f2d59715f891055a800c06c47bb1b28ea2b4843b66981.txt",
+    "licenseSourcePath": "LICENSE.md",
+    "licenseSha256": "5abaf3569a6e1b05a60f2d59715f891055a800c06c47bb1b28ea2b4843b66981",
+    "documentSha256": "aee4c8107eb9bd59dba4cc5e31d3769e0b856a20d203bb1009b297f7d317c2e0",
+    "format": {
+      "en": "Author preview",
+      "zh": "作者预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-11T07:17:26.547Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/d4f4af11b33e1f5b6bab61aa40aeb649295bad82d334add93990c5c6c258c21d.preview.webp",
+        "previewSrc": "/skill-previews/auto/d4f4af11b33e1f5b6bab61aa40aeb649295bad82d334add93990c5c6c258c21d.preview.webp",
+        "cardSrc": "/skill-previews/auto/d4f4af11b33e1f5b6bab61aa40aeb649295bad82d334add93990c5c6c258c21d.card.webp",
+        "width": 1600,
+        "height": 1000,
+        "sha256": "d4f4af11b33e1f5b6bab61aa40aeb649295bad82d334add93990c5c6c258c21d",
+        "originalSrc": "/skill-previews/auto/d4f4af11b33e1f5b6bab61aa40aeb649295bad82d334add93990c5c6c258c21d.png",
+        "sourceUrl": "https://github.com/caioricciuti/duck-ui/blob/ac2a460cfbe97899b3daaed59c0b666b22fe801f/public/screenshot.png",
+        "kind": "reference",
+        "title": {
+          "en": "Duck Ui · Author preview",
+          "zh": "Duck Ui · 作者预览"
+        },
+        "alt": {
+          "en": "Duck Ui: Duck-UI screenshot",
+          "zh": "Duck Ui：Duck-UI screenshot"
+        },
+        "sourcePath": "public/screenshot.png",
+        "documentPath": "README.md",
+        "format": "image"
+      }
+    ]
+  },
+  {
+    "skillSlug": "caiyuanhao1998-pngan",
+    "repository": "caiyuanhao1998/PNGAN",
+    "revision": "193586927666695b0a941b64dc7530a710ba1cee",
+    "sourceUrl": "https://github.com/caiyuanhao1998/PNGAN/blob/193586927666695b0a941b64dc7530a710ba1cee/README.md",
+    "license": "MIT",
+    "licenseUrl": "/skill-previews/auto/LICENSE-e0e1442fd981b9326a823130ffe6141eebf85e8b46046f6388c753c5290e74f0.txt",
+    "licenseSourcePath": "LICENSE.txt",
+    "licenseSha256": "e0e1442fd981b9326a823130ffe6141eebf85e8b46046f6388c753c5290e74f0",
+    "documentSha256": "cdf4642888434e08dfe7c6aea833d7c6478518f463982c8fd77e0f0af54108d1",
+    "format": {
+      "en": "Author preview",
+      "zh": "作者预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-11T07:17:26.547Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/263733ccd335bbee645880863671c5a69957e4cfee016fa5a167913381841d74.preview.webp",
+        "previewSrc": "/skill-previews/auto/263733ccd335bbee645880863671c5a69957e4cfee016fa5a167913381841d74.preview.webp",
+        "cardSrc": "/skill-previews/auto/263733ccd335bbee645880863671c5a69957e4cfee016fa5a167913381841d74.card.webp",
+        "width": 1212,
+        "height": 430,
+        "sha256": "263733ccd335bbee645880863671c5a69957e4cfee016fa5a167913381841d74",
+        "originalSrc": "/skill-previews/auto/263733ccd335bbee645880863671c5a69957e4cfee016fa5a167913381841d74.png",
+        "sourceUrl": "https://github.com/caiyuanhao1998/PNGAN/blob/193586927666695b0a941b64dc7530a710ba1cee/figure/main.png",
+        "kind": "example",
+        "title": {
+          "en": "PNGAN · Author preview",
+          "zh": "PNGAN · 作者预览"
+        },
+        "alt": {
+          "en": "PNGAN: Main Results of PNGAN",
+          "zh": "PNGAN：Main Results of PNGAN"
+        },
+        "sourcePath": "figure/main.png",
+        "documentPath": "README.md",
+        "format": "image"
+      },
+      {
+        "src": "/skill-previews/auto/f67c57e808d00630ad9b936549f07ad611a2847a293c533c7b5aea97758fb444.preview.webp",
+        "previewSrc": "/skill-previews/auto/f67c57e808d00630ad9b936549f07ad611a2847a293c533c7b5aea97758fb444.preview.webp",
+        "cardSrc": "/skill-previews/auto/f67c57e808d00630ad9b936549f07ad611a2847a293c533c7b5aea97758fb444.card.webp",
+        "width": 512,
+        "height": 512,
+        "sha256": "f67c57e808d00630ad9b936549f07ad611a2847a293c533c7b5aea97758fb444",
+        "originalSrc": "/skill-previews/auto/f67c57e808d00630ad9b936549f07ad611a2847a293c533c7b5aea97758fb444.gif",
+        "sourceUrl": "https://github.com/caiyuanhao1998/PNGAN/blob/193586927666695b0a941b64dc7530a710ba1cee/figure/clean2gaussian.gif",
+        "kind": "reference",
+        "title": {
+          "en": "PNGAN · Animation · still preview",
+          "zh": "PNGAN · 动图 · 静帧预览"
+        },
+        "alt": {
+          "en": "PNGAN: clean2gaussian.gif",
+          "zh": "PNGAN：clean2gaussian.gif"
+        },
+        "sourcePath": "figure/clean2gaussian.gif",
+        "documentPath": "README.md",
+        "format": "animation-poster"
+      },
+      {
+        "src": "/skill-previews/auto/0131a9ee2204471fc22b0fc99b8bbd21152d531ebc82d072c29a965e5d128815.preview.webp",
+        "previewSrc": "/skill-previews/auto/0131a9ee2204471fc22b0fc99b8bbd21152d531ebc82d072c29a965e5d128815.preview.webp",
+        "cardSrc": "/skill-previews/auto/0131a9ee2204471fc22b0fc99b8bbd21152d531ebc82d072c29a965e5d128815.card.webp",
+        "width": 512,
+        "height": 512,
+        "sha256": "0131a9ee2204471fc22b0fc99b8bbd21152d531ebc82d072c29a965e5d128815",
+        "originalSrc": "/skill-previews/auto/0131a9ee2204471fc22b0fc99b8bbd21152d531ebc82d072c29a965e5d128815.gif",
+        "sourceUrl": "https://github.com/caiyuanhao1998/PNGAN/blob/193586927666695b0a941b64dc7530a710ba1cee/figure/clean2PNGAN.gif",
+        "kind": "reference",
+        "title": {
+          "en": "PNGAN · Animation · still preview",
+          "zh": "PNGAN · 动图 · 静帧预览"
+        },
+        "alt": {
+          "en": "PNGAN: clean2PNGAN.gif",
+          "zh": "PNGAN：clean2PNGAN.gif"
+        },
+        "sourcePath": "figure/clean2PNGAN.gif",
+        "documentPath": "README.md",
+        "format": "animation-poster"
+      }
+    ]
+  },
+  {
+    "skillSlug": "calebnance-expo-disneyplus",
+    "repository": "calebnance/expo-disneyplus",
+    "revision": "b6a54c7054b9667d02202a57b43c5db1bae821e1",
+    "sourceUrl": "https://github.com/calebnance/expo-disneyplus/blob/b6a54c7054b9667d02202a57b43c5db1bae821e1/README.md",
+    "license": "MIT",
+    "licenseUrl": "/skill-previews/auto/LICENSE-4483bb54793670b5ed894fb3f101e45ccf961df52b2ba3047b3f44f66674dc70.txt",
+    "licenseSourcePath": "LICENSE",
+    "licenseSha256": "4483bb54793670b5ed894fb3f101e45ccf961df52b2ba3047b3f44f66674dc70",
+    "documentSha256": "3e3890b82d29fb0330e7aaa34ff4c234172ea995bfa88d208b3126ab8c7ec4d6",
+    "format": {
+      "en": "Author preview",
+      "zh": "作者预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-11T07:17:26.547Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/53502a033bd5f95b8f7e56afe4f2f28717fdfc1f89fe901a4b7734e1933a612e.preview.webp",
+        "previewSrc": "/skill-previews/auto/53502a033bd5f95b8f7e56afe4f2f28717fdfc1f89fe901a4b7734e1933a612e.preview.webp",
+        "cardSrc": "/skill-previews/auto/53502a033bd5f95b8f7e56afe4f2f28717fdfc1f89fe901a4b7734e1933a612e.card.webp",
+        "width": 890,
+        "height": 1400,
+        "sha256": "53502a033bd5f95b8f7e56afe4f2f28717fdfc1f89fe901a4b7734e1933a612e",
+        "originalSrc": "/skill-previews/auto/53502a033bd5f95b8f7e56afe4f2f28717fdfc1f89fe901a4b7734e1933a612e.png",
+        "sourceUrl": "https://github.com/calebnance/expo-disneyplus/blob/b6a54c7054b9667d02202a57b43c5db1bae821e1/.gh-assets/screenshare-4.png",
+        "kind": "reference",
+        "title": {
+          "en": "Expo Disneyplus · Author preview",
+          "zh": "Expo Disneyplus · 作者预览"
+        },
+        "alt": {
+          "en": "Expo Disneyplus: screenshare-4.png",
+          "zh": "Expo Disneyplus：screenshare-4.png"
+        },
+        "sourcePath": ".gh-assets/screenshare-4.png",
+        "documentPath": "README.md",
+        "format": "image"
+      }
+    ]
+  },
+  {
     "skillSlug": "d0c-s4vage-lookatme",
     "repository": "d0c-s4vage/lookatme",
     "revision": "c05abe1804d93254e9139039937eed43fb6b49ab",
