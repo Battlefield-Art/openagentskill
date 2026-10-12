@@ -2552,6 +2552,270 @@
     ]
   },
   {
+    "skillSlug": "cclank-lanshu-animated-architecture-diagram",
+    "repository": "cclank/lanshu-animated-architecture-diagram",
+    "revision": "c17f5b4e5de99d3603b364530ad04d930d038d24",
+    "sourceUrl": "https://github.com/cclank/lanshu-animated-architecture-diagram/blob/c17f5b4e5de99d3603b364530ad04d930d038d24/SKILL.md",
+    "license": "MIT",
+    "licenseUrl": "/skill-previews/auto/LICENSE-5adc7a7add785902cb0cbbe2ed9fb70aa2e3c8adcecced8c990fd4517e113bf6.txt",
+    "licenseSourcePath": "LICENSE",
+    "licenseSha256": "5adc7a7add785902cb0cbbe2ed9fb70aa2e3c8adcecced8c990fd4517e113bf6",
+    "documentSha256": "57ba12faa015af6bbbf585589b2c16015fa7e385ac58ff519c2952ac74b977b2",
+    "format": {
+      "en": "Animation · still preview",
+      "zh": "动图 · 静帧预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-12T07:26:52.631Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/c7ffdcd3486a83ee1c8f1dde1e5de2b4019efdf5c43d83d775691eb08f00bb5b.preview.webp",
+        "previewSrc": "/skill-previews/auto/c7ffdcd3486a83ee1c8f1dde1e5de2b4019efdf5c43d83d775691eb08f00bb5b.preview.webp",
+        "cardSrc": "/skill-previews/auto/c7ffdcd3486a83ee1c8f1dde1e5de2b4019efdf5c43d83d775691eb08f00bb5b.card.webp",
+        "width": 1210,
+        "height": 1138,
+        "sha256": "c7ffdcd3486a83ee1c8f1dde1e5de2b4019efdf5c43d83d775691eb08f00bb5b",
+        "originalSrc": "/skill-previews/auto/c7ffdcd3486a83ee1c8f1dde1e5de2b4019efdf5c43d83d775691eb08f00bb5b.gif",
+        "sourceUrl": "https://github.com/cclank/lanshu-animated-architecture-diagram/blob/c17f5b4e5de99d3603b364530ad04d930d038d24/assets/previews/claude-loops.gif",
+        "kind": "example",
+        "title": {
+          "en": "lanshu-animated-architecture-diagram · Animation · still preview",
+          "zh": "lanshu-animated-architecture-diagram · 动图 · 静帧预览"
+        },
+        "alt": {
+          "en": "lanshu-animated-architecture-diagram: Claude Loops animated architecture diagram",
+          "zh": "lanshu-animated-architecture-diagram：Claude Loops animated architecture diagram"
+        },
+        "sourcePath": "assets/previews/claude-loops.gif",
+        "documentPath": "README.md",
+        "format": "animation-poster"
+      },
+      {
+        "src": "/skill-previews/auto/23667d959ea92499dc75c461288e77288c70636cd05b95a830bc95e016ac8e1c.preview.webp",
+        "previewSrc": "/skill-previews/auto/23667d959ea92499dc75c461288e77288c70636cd05b95a830bc95e016ac8e1c.preview.webp",
+        "cardSrc": "/skill-previews/auto/23667d959ea92499dc75c461288e77288c70636cd05b95a830bc95e016ac8e1c.card.webp",
+        "width": 1210,
+        "height": 1138,
+        "sha256": "23667d959ea92499dc75c461288e77288c70636cd05b95a830bc95e016ac8e1c",
+        "originalSrc": "/skill-previews/auto/23667d959ea92499dc75c461288e77288c70636cd05b95a830bc95e016ac8e1c.gif",
+        "sourceUrl": "https://github.com/cclank/lanshu-animated-architecture-diagram/blob/c17f5b4e5de99d3603b364530ad04d930d038d24/assets/previews/memory-pack.gif",
+        "kind": "example",
+        "title": {
+          "en": "lanshu-animated-architecture-diagram · Animation · still preview",
+          "zh": "lanshu-animated-architecture-diagram · 动图 · 静帧预览"
+        },
+        "alt": {
+          "en": "lanshu-animated-architecture-diagram: Memory Pack animated architecture diagram",
+          "zh": "lanshu-animated-architecture-diagram：Memory Pack animated architecture diagram"
+        },
+        "sourcePath": "assets/previews/memory-pack.gif",
+        "documentPath": "README.md",
+        "format": "animation-poster"
+      }
+    ]
+  },
+  {
+    "skillSlug": "chakra-ui-chakra-ui",
+    "repository": "chakra-ui/chakra-ui",
+    "revision": "fa9696f328ea5a0df8685c6d8460edbd779b63b9",
+    "sourceUrl": "https://github.com/chakra-ui/chakra-ui/blob/fa9696f328ea5a0df8685c6d8460edbd779b63b9/README.md",
+    "license": "MIT",
+    "licenseUrl": "/skill-previews/auto/LICENSE-9763e8439364e3663d1c41ac4c2a2bb44af407e3f28d9a079919d7a574d868f8.txt",
+    "licenseSourcePath": "LICENSE",
+    "licenseSha256": "9763e8439364e3663d1c41ac4c2a2bb44af407e3f28d9a079919d7a574d868f8",
+    "documentSha256": "144a281b39d5fa14f44633c232b86ef9b03004ebb57f1f94249e27904abe889e",
+    "format": {
+      "en": "Author preview",
+      "zh": "作者预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-12T07:26:52.631Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/0a5d1d87700087624009d9dd59ffa0e7538f3af7b7de8cc38cd5a3bbd0f88f92.preview.webp",
+        "previewSrc": "/skill-previews/auto/0a5d1d87700087624009d9dd59ffa0e7538f3af7b7de8cc38cd5a3bbd0f88f92.preview.webp",
+        "cardSrc": "/skill-previews/auto/0a5d1d87700087624009d9dd59ffa0e7538f3af7b7de8cc38cd5a3bbd0f88f92.card.webp",
+        "width": 416,
+        "height": 416,
+        "sha256": "0a5d1d87700087624009d9dd59ffa0e7538f3af7b7de8cc38cd5a3bbd0f88f92",
+        "originalSrc": "/skill-previews/auto/0a5d1d87700087624009d9dd59ffa0e7538f3af7b7de8cc38cd5a3bbd0f88f92.png",
+        "sourceUrl": "https://github.com/chakra-ui/chakra-ui/blob/fa9696f328ea5a0df8685c6d8460edbd779b63b9/media/os-awards.png",
+        "kind": "reference",
+        "title": {
+          "en": "Chakra Ui · Author preview",
+          "zh": "Chakra Ui · 作者预览"
+        },
+        "alt": {
+          "en": "Chakra Ui: Open Source Awards 2020",
+          "zh": "Chakra Ui：Open Source Awards 2020"
+        },
+        "sourcePath": "media/os-awards.png",
+        "documentPath": "README.md",
+        "format": "image"
+      },
+      {
+        "src": "/skill-previews/auto/5b986a0d455ec58d0819dad40e59fa123c66982d6220fbc4a25f253859feb718.preview.webp",
+        "previewSrc": "/skill-previews/auto/5b986a0d455ec58d0819dad40e59fa123c66982d6220fbc4a25f253859feb718.preview.webp",
+        "cardSrc": "/skill-previews/auto/5b986a0d455ec58d0819dad40e59fa123c66982d6220fbc4a25f253859feb718.card.webp",
+        "width": 416,
+        "height": 416,
+        "sha256": "5b986a0d455ec58d0819dad40e59fa123c66982d6220fbc4a25f253859feb718",
+        "originalSrc": "/skill-previews/auto/5b986a0d455ec58d0819dad40e59fa123c66982d6220fbc4a25f253859feb718.png",
+        "sourceUrl": "https://github.com/chakra-ui/chakra-ui/blob/fa9696f328ea5a0df8685c6d8460edbd779b63b9/media/tech-radar.png",
+        "kind": "reference",
+        "title": {
+          "en": "Chakra Ui · Author preview",
+          "zh": "Chakra Ui · 作者预览"
+        },
+        "alt": {
+          "en": "Chakra Ui: Technology Radar",
+          "zh": "Chakra Ui：Technology Radar"
+        },
+        "sourcePath": "media/tech-radar.png",
+        "documentPath": "README.md",
+        "format": "image"
+      }
+    ]
+  },
+  {
+    "skillSlug": "charliegerard-ultrasonic-payments",
+    "repository": "charliegerard/ultrasonic-payments",
+    "revision": "ac4c39f51254da7ddefdf69b8fb4b2da121e0ed5",
+    "sourceUrl": "https://github.com/charliegerard/ultrasonic-payments/blob/ac4c39f51254da7ddefdf69b8fb4b2da121e0ed5/README.md",
+    "license": "MIT",
+    "licenseUrl": "/skill-previews/auto/LICENSE-99a7bc9cd363451a681cea5fa576a167b3c006d726238bc6d993e1345c39ad59.txt",
+    "licenseSourcePath": "LICENSE.md",
+    "licenseSha256": "99a7bc9cd363451a681cea5fa576a167b3c006d726238bc6d993e1345c39ad59",
+    "documentSha256": "bb96688a090677b0fe3c3b9262079165fccb2f261949f31b100f827becdb455a",
+    "format": {
+      "en": "Animation · still preview",
+      "zh": "动图 · 静帧预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-12T07:26:52.631Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/26ad380eac71f6133756317c13eadfb1c98832c6fd90cb384f9dd819176c5d2a.preview.webp",
+        "previewSrc": "/skill-previews/auto/26ad380eac71f6133756317c13eadfb1c98832c6fd90cb384f9dd819176c5d2a.preview.webp",
+        "cardSrc": "/skill-previews/auto/26ad380eac71f6133756317c13eadfb1c98832c6fd90cb384f9dd819176c5d2a.card.webp",
+        "width": 1280,
+        "height": 720,
+        "sha256": "26ad380eac71f6133756317c13eadfb1c98832c6fd90cb384f9dd819176c5d2a",
+        "originalSrc": "/skill-previews/auto/26ad380eac71f6133756317c13eadfb1c98832c6fd90cb384f9dd819176c5d2a.gif",
+        "sourceUrl": "https://github.com/charliegerard/ultrasonic-payments/blob/ac4c39f51254da7ddefdf69b8fb4b2da121e0ed5/ultrasonic-payment-link-demo.gif",
+        "kind": "example",
+        "title": {
+          "en": "Ultrasonic Payments · Animation · still preview",
+          "zh": "Ultrasonic Payments · 动图 · 静帧预览"
+        },
+        "alt": {
+          "en": "Ultrasonic Payments: GIF showing how I am sending a Stripe Payment Link via ultrasound to my phone",
+          "zh": "Ultrasonic Payments：GIF showing how I am sending a Stripe Payment Link via ultrasound to my phone"
+        },
+        "sourcePath": "ultrasonic-payment-link-demo.gif",
+        "documentPath": "README.md",
+        "format": "animation-poster"
+      }
+    ]
+  },
+  {
+    "skillSlug": "chen-yang-liu-text2earth",
+    "repository": "Chen-Yang-Liu/Text2Earth",
+    "revision": "358da7598d6a042fb0790f10b3951bc7729e5ae9",
+    "sourceUrl": "https://github.com/Chen-Yang-Liu/Text2Earth/blob/358da7598d6a042fb0790f10b3951bc7729e5ae9/README.md",
+    "license": "Apache-2.0",
+    "licenseUrl": "/skill-previews/auto/LICENSE-c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4.txt",
+    "licenseSourcePath": "LICENSE",
+    "licenseSha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "documentSha256": "e77e1f6fd2d277c64349529c1ab44eea4cec2093c078d260e7045627306ba8b6",
+    "format": {
+      "en": "Author preview",
+      "zh": "作者预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-12T07:26:52.631Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/afc9b021c79fba0fe58a9d66b22a6b4ac3d234cd0bb4d9b5abdc460e62e07074.preview.webp",
+        "previewSrc": "/skill-previews/auto/afc9b021c79fba0fe58a9d66b22a6b4ac3d234cd0bb4d9b5abdc460e62e07074.preview.webp",
+        "cardSrc": "/skill-previews/auto/afc9b021c79fba0fe58a9d66b22a6b4ac3d234cd0bb4d9b5abdc460e62e07074.card.webp",
+        "width": 1072,
+        "height": 670,
+        "sha256": "afc9b021c79fba0fe58a9d66b22a6b4ac3d234cd0bb4d9b5abdc460e62e07074",
+        "originalSrc": "/skill-previews/auto/afc9b021c79fba0fe58a9d66b22a6b4ac3d234cd0bb4d9b5abdc460e62e07074.jpg",
+        "sourceUrl": "https://github.com/Chen-Yang-Liu/Text2Earth/blob/358da7598d6a042fb0790f10b3951bc7729e5ae9/images/RSICD_result.png",
+        "kind": "example",
+        "title": {
+          "en": "Text2Earth · Author preview",
+          "zh": "Text2Earth · 作者预览"
+        },
+        "alt": {
+          "en": "Text2Earth: RSICD_result.png",
+          "zh": "Text2Earth：RSICD_result.png"
+        },
+        "sourcePath": "images/RSICD_result.png",
+        "documentPath": "README.md",
+        "format": "image"
+      },
+      {
+        "src": "/skill-previews/auto/d4a481b017f9183e55ca4d71871c880021b293dd135c52f72ba8fd1fe480175b.preview.webp",
+        "previewSrc": "/skill-previews/auto/d4a481b017f9183e55ca4d71871c880021b293dd135c52f72ba8fd1fe480175b.preview.webp",
+        "cardSrc": "/skill-previews/auto/d4a481b017f9183e55ca4d71871c880021b293dd135c52f72ba8fd1fe480175b.card.webp",
+        "width": 1551,
+        "height": 1000,
+        "sha256": "d4a481b017f9183e55ca4d71871c880021b293dd135c52f72ba8fd1fe480175b",
+        "originalSrc": "/skill-previews/auto/d4a481b017f9183e55ca4d71871c880021b293dd135c52f72ba8fd1fe480175b.jpg",
+        "sourceUrl": "https://github.com/Chen-Yang-Liu/Text2Earth/blob/358da7598d6a042fb0790f10b3951bc7729e5ae9/images/zero_result_2.png",
+        "kind": "example",
+        "title": {
+          "en": "Text2Earth · Author preview",
+          "zh": "Text2Earth · 作者预览"
+        },
+        "alt": {
+          "en": "Text2Earth: zero_result_2.png",
+          "zh": "Text2Earth：zero_result_2.png"
+        },
+        "sourcePath": "images/zero_result_2.png",
+        "documentPath": "README.md",
+        "format": "image"
+      },
+      {
+        "src": "/skill-previews/auto/4ce8c00dbc48e9663e185f8701e48a07fc4387ba124bdeaa3c85b0fdac2c882e.preview.webp",
+        "previewSrc": "/skill-previews/auto/4ce8c00dbc48e9663e185f8701e48a07fc4387ba124bdeaa3c85b0fdac2c882e.preview.webp",
+        "cardSrc": "/skill-previews/auto/4ce8c00dbc48e9663e185f8701e48a07fc4387ba124bdeaa3c85b0fdac2c882e.card.webp",
+        "width": 1549,
+        "height": 993,
+        "sha256": "4ce8c00dbc48e9663e185f8701e48a07fc4387ba124bdeaa3c85b0fdac2c882e",
+        "originalSrc": "/skill-previews/auto/4ce8c00dbc48e9663e185f8701e48a07fc4387ba124bdeaa3c85b0fdac2c882e.jpg",
+        "sourceUrl": "https://github.com/Chen-Yang-Liu/Text2Earth/blob/358da7598d6a042fb0790f10b3951bc7729e5ae9/images/zero_result.png",
+        "kind": "example",
+        "title": {
+          "en": "Text2Earth · Author preview",
+          "zh": "Text2Earth · 作者预览"
+        },
+        "alt": {
+          "en": "Text2Earth: zero_result.png",
+          "zh": "Text2Earth：zero_result.png"
+        },
+        "sourcePath": "images/zero_result.png",
+        "documentPath": "README.md",
+        "format": "image"
+      }
+    ]
+  },
+  {
     "skillSlug": "d0c-s4vage-lookatme",
     "repository": "d0c-s4vage/lookatme",
     "revision": "c05abe1804d93254e9139039937eed43fb6b49ab",
@@ -5319,6 +5583,94 @@
         },
         "sourcePath": "assets/screenshots/第3张.jpg",
         "documentPath": "README.md",
+        "format": "image"
+      }
+    ]
+  },
+  {
+    "skillSlug": "wireflowinc-skills-ugc-ad-generator",
+    "repository": "wireflowINC/skills",
+    "revision": "c063cccfe7a0d6b6f695ba9d7d4049c348f98cf6",
+    "sourceUrl": "https://github.com/wireflowINC/skills/blob/c063cccfe7a0d6b6f695ba9d7d4049c348f98cf6/skills/ugc-ad-generator/SKILL.md",
+    "license": "MIT",
+    "licenseUrl": "/skill-previews/auto/LICENSE-88edff8722e38e636312b21d6610c0652a4ce623e085e08e8937055c95f05f4c.txt",
+    "licenseSourcePath": "LICENSE",
+    "licenseSha256": "88edff8722e38e636312b21d6610c0652a4ce623e085e08e8937055c95f05f4c",
+    "documentSha256": "623b8d4ac26dae8632d2181245c26da99ad08850bd5e1861618846d9ee68495c",
+    "format": {
+      "en": "Author preview",
+      "zh": "作者预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-12T07:26:52.631Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/2e8f8034dbe20ff7dc8b11eafd23d8a394e624ec443626d414509762ec54e8d8.preview.webp",
+        "previewSrc": "/skill-previews/auto/2e8f8034dbe20ff7dc8b11eafd23d8a394e624ec443626d414509762ec54e8d8.preview.webp",
+        "cardSrc": "/skill-previews/auto/2e8f8034dbe20ff7dc8b11eafd23d8a394e624ec443626d414509762ec54e8d8.card.webp",
+        "width": 540,
+        "height": 960,
+        "sha256": "2e8f8034dbe20ff7dc8b11eafd23d8a394e624ec443626d414509762ec54e8d8",
+        "originalSrc": "/skill-previews/auto/2e8f8034dbe20ff7dc8b11eafd23d8a394e624ec443626d414509762ec54e8d8.jpg",
+        "sourceUrl": "https://github.com/wireflowINC/skills/blob/c063cccfe7a0d6b6f695ba9d7d4049c348f98cf6/skills/ugc-ad-generator/examples/creator-still.jpg",
+        "kind": "example",
+        "title": {
+          "en": "ugc-ad-generator · Author preview",
+          "zh": "ugc-ad-generator · 作者预览"
+        },
+        "alt": {
+          "en": "ugc-ad-generator: Output: AI creator holding the tote in a selfie-style still",
+          "zh": "ugc-ad-generator：Output: AI creator holding the tote in a selfie-style still"
+        },
+        "sourcePath": "skills/ugc-ad-generator/examples/creator-still.jpg",
+        "documentPath": "skills/ugc-ad-generator/README.md",
+        "format": "image"
+      },
+      {
+        "src": "/skill-previews/auto/0ed0b4ef270a91d20f3ff8116bb23263847f2ab28d07e195646e485fc5656c0d.preview.webp",
+        "previewSrc": "/skill-previews/auto/0ed0b4ef270a91d20f3ff8116bb23263847f2ab28d07e195646e485fc5656c0d.preview.webp",
+        "cardSrc": "/skill-previews/auto/0ed0b4ef270a91d20f3ff8116bb23263847f2ab28d07e195646e485fc5656c0d.card.webp",
+        "width": 480,
+        "height": 480,
+        "sha256": "0ed0b4ef270a91d20f3ff8116bb23263847f2ab28d07e195646e485fc5656c0d",
+        "originalSrc": "/skill-previews/auto/0ed0b4ef270a91d20f3ff8116bb23263847f2ab28d07e195646e485fc5656c0d.jpg",
+        "sourceUrl": "https://github.com/wireflowINC/skills/blob/c063cccfe7a0d6b6f695ba9d7d4049c348f98cf6/skills/ugc-ad-generator/examples/input-tote-packshot.jpg",
+        "kind": "example",
+        "title": {
+          "en": "ugc-ad-generator · Author preview",
+          "zh": "ugc-ad-generator · 作者预览"
+        },
+        "alt": {
+          "en": "ugc-ad-generator: Input: canvas tote packshot on white",
+          "zh": "ugc-ad-generator：Input: canvas tote packshot on white"
+        },
+        "sourcePath": "skills/ugc-ad-generator/examples/input-tote-packshot.jpg",
+        "documentPath": "skills/ugc-ad-generator/README.md",
+        "format": "image"
+      },
+      {
+        "src": "/skill-previews/auto/137d94274e471fa2100392c9801b6ceeaa5b7eabce414fea06eced5cb408c3cc.preview.webp",
+        "previewSrc": "/skill-previews/auto/137d94274e471fa2100392c9801b6ceeaa5b7eabce414fea06eced5cb408c3cc.preview.webp",
+        "cardSrc": "/skill-previews/auto/137d94274e471fa2100392c9801b6ceeaa5b7eabce414fea06eced5cb408c3cc.card.webp",
+        "width": 540,
+        "height": 960,
+        "sha256": "137d94274e471fa2100392c9801b6ceeaa5b7eabce414fea06eced5cb408c3cc",
+        "originalSrc": "/skill-previews/auto/137d94274e471fa2100392c9801b6ceeaa5b7eabce414fea06eced5cb408c3cc.jpg",
+        "sourceUrl": "https://github.com/wireflowINC/skills/blob/c063cccfe7a0d6b6f695ba9d7d4049c348f98cf6/skills/ugc-ad-generator/examples/ugc-video-poster.jpg",
+        "kind": "example",
+        "title": {
+          "en": "ugc-ad-generator · Author preview",
+          "zh": "ugc-ad-generator · 作者预览"
+        },
+        "alt": {
+          "en": "ugc-ad-generator: ![Frame from the talking UGC clip, click to play",
+          "zh": "ugc-ad-generator：![Frame from the talking UGC clip, click to play"
+        },
+        "sourcePath": "skills/ugc-ad-generator/examples/ugc-video-poster.jpg",
+        "documentPath": "skills/ugc-ad-generator/README.md",
         "format": "image"
       }
     ]
