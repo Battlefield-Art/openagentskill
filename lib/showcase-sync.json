@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-12T07:26:50.573Z",
+  "checkedAt": "2026-10-13T07:47:49.204Z",
   "updatedAt": "2026-09-27",
   "sources": [
     {
@@ -23,7 +23,7 @@
     {
       "source": "huashu",
       "repository": "alchaincyf/huashu-design",
-      "revision": "0830494ecb1c117e25b313a8114fe55a6bf2b125",
+      "revision": "3bd465d7ad29ffcb284113beb48910b469f00797",
       "candidates": 6,
       "missing": [],
       "skips": [],

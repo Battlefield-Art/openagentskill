@@ -2816,6 +2816,138 @@
     ]
   },
   {
+    "skillSlug": "cidarlab-cello",
+    "repository": "CIDARLAB/cello",
+    "revision": "11644045e5ab677965a8e5765db2fb8535484a53",
+    "sourceUrl": "https://github.com/CIDARLAB/cello/blob/11644045e5ab677965a8e5765db2fb8535484a53/README.md",
+    "license": "BSD-2-Clause",
+    "licenseUrl": "/skill-previews/auto/LICENSE-60b80080d05d43dfe61e0e496d373519435c760c617234ab6a21cf8ee4fac4ed.txt",
+    "licenseSourcePath": "LICENSE.txt",
+    "licenseSha256": "60b80080d05d43dfe61e0e496d373519435c760c617234ab6a21cf8ee4fac4ed",
+    "documentSha256": "5518452a930ac80ae8ec9ca8a874fdc31f89ec9773e9e07ea00a2664b44b2014",
+    "format": {
+      "en": "Author preview",
+      "zh": "作者预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-13T07:47:51.178Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/15dee2daf9b33e6a79beac572f4c57fc419669620b5de53280197d627a35d0f2.preview.webp",
+        "previewSrc": "/skill-previews/auto/15dee2daf9b33e6a79beac572f4c57fc419669620b5de53280197d627a35d0f2.preview.webp",
+        "cardSrc": "/skill-previews/auto/15dee2daf9b33e6a79beac572f4c57fc419669620b5de53280197d627a35d0f2.card.webp",
+        "width": 1362,
+        "height": 1600,
+        "sha256": "15dee2daf9b33e6a79beac572f4c57fc419669620b5de53280197d627a35d0f2",
+        "originalSrc": "/skill-previews/auto/15dee2daf9b33e6a79beac572f4c57fc419669620b5de53280197d627a35d0f2.png",
+        "sourceUrl": "https://github.com/CIDARLAB/cello/blob/11644045e5ab677965a8e5765db2fb8535484a53/src/main/webapp/images/eugene_examples.png",
+        "kind": "example",
+        "title": {
+          "en": "Cello · Author preview",
+          "zh": "Cello · 作者预览"
+        },
+        "alt": {
+          "en": "Cello: eugene_examples.png",
+          "zh": "Cello：eugene_examples.png"
+        },
+        "sourcePath": "src/main/webapp/images/eugene_examples.png",
+        "documentPath": "README.md",
+        "format": "image"
+      },
+      {
+        "src": "/skill-previews/auto/0827a7891a82f564fb884a43a48973ac6814f2c1c386cfcff91106ba97041829.preview.webp",
+        "previewSrc": "/skill-previews/auto/0827a7891a82f564fb884a43a48973ac6814f2c1c386cfcff91106ba97041829.preview.webp",
+        "cardSrc": "/skill-previews/auto/0827a7891a82f564fb884a43a48973ac6814f2c1c386cfcff91106ba97041829.card.webp",
+        "width": 1600,
+        "height": 621,
+        "sha256": "0827a7891a82f564fb884a43a48973ac6814f2c1c386cfcff91106ba97041829",
+        "originalSrc": "/skill-previews/auto/0827a7891a82f564fb884a43a48973ac6814f2c1c386cfcff91106ba97041829.png",
+        "sourceUrl": "https://github.com/CIDARLAB/cello/blob/11644045e5ab677965a8e5765db2fb8535484a53/src/main/webapp/images/netsynth_xor_example.png",
+        "kind": "example",
+        "title": {
+          "en": "Cello · Author preview",
+          "zh": "Cello · 作者预览"
+        },
+        "alt": {
+          "en": "Cello: netsynth_xor_example.png",
+          "zh": "Cello：netsynth_xor_example.png"
+        },
+        "sourcePath": "src/main/webapp/images/netsynth_xor_example.png",
+        "documentPath": "README.md",
+        "format": "image"
+      },
+      {
+        "src": "/skill-previews/auto/5e24fc4097297945817249605f3d095a704efacd3ddfa4609a21b2f6da89386c.preview.webp",
+        "previewSrc": "/skill-previews/auto/5e24fc4097297945817249605f3d095a704efacd3ddfa4609a21b2f6da89386c.preview.webp",
+        "cardSrc": "/skill-previews/auto/5e24fc4097297945817249605f3d095a704efacd3ddfa4609a21b2f6da89386c.card.webp",
+        "width": 1043,
+        "height": 647,
+        "sha256": "5e24fc4097297945817249605f3d095a704efacd3ddfa4609a21b2f6da89386c",
+        "originalSrc": "/skill-previews/auto/5e24fc4097297945817249605f3d095a704efacd3ddfa4609a21b2f6da89386c.png",
+        "sourceUrl": "https://github.com/CIDARLAB/cello/blob/11644045e5ab677965a8e5765db2fb8535484a53/src/main/webapp/images/assignment.png",
+        "kind": "reference",
+        "title": {
+          "en": "Cello · Author preview",
+          "zh": "Cello · 作者预览"
+        },
+        "alt": {
+          "en": "Cello: assignment.png",
+          "zh": "Cello：assignment.png"
+        },
+        "sourcePath": "src/main/webapp/images/assignment.png",
+        "documentPath": "README.md",
+        "format": "image"
+      }
+    ]
+  },
+  {
+    "skillSlug": "cilium-hubble-ui",
+    "repository": "cilium/hubble-ui",
+    "revision": "e88d173cfe06a2d5c11d443c57ab4bc9b91a8bdf",
+    "sourceUrl": "https://github.com/cilium/hubble-ui/blob/e88d173cfe06a2d5c11d443c57ab4bc9b91a8bdf/README.md",
+    "license": "Apache-2.0",
+    "licenseUrl": "/skill-previews/auto/LICENSE-e4b2f75aa476ca4c29dd71ac15b8c882538543b2ee347c39b2e7a2960906ff1a.txt",
+    "licenseSourcePath": "LICENSE",
+    "licenseSha256": "e4b2f75aa476ca4c29dd71ac15b8c882538543b2ee347c39b2e7a2960906ff1a",
+    "documentSha256": "95d667b92a26d3a2fffb45c214b7481d0e141e619c86a0dfa19206fbcc077964",
+    "format": {
+      "en": "Author preview",
+      "zh": "作者预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-13T07:47:51.178Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/9450dac3b848e9eedd3ef6e436c8dd3ee9e0409757bc9921e435ec3f9ec0ffda.preview.webp",
+        "previewSrc": "/skill-previews/auto/9450dac3b848e9eedd3ef6e436c8dd3ee9e0409757bc9921e435ec3f9ec0ffda.preview.webp",
+        "cardSrc": "/skill-previews/auto/9450dac3b848e9eedd3ef6e436c8dd3ee9e0409757bc9921e435ec3f9ec0ffda.card.webp",
+        "width": 1600,
+        "height": 1208,
+        "sha256": "9450dac3b848e9eedd3ef6e436c8dd3ee9e0409757bc9921e435ec3f9ec0ffda",
+        "originalSrc": "/skill-previews/auto/9450dac3b848e9eedd3ef6e436c8dd3ee9e0409757bc9921e435ec3f9ec0ffda.png",
+        "sourceUrl": "https://github.com/cilium/hubble-ui/blob/e88d173cfe06a2d5c11d443c57ab4bc9b91a8bdf/promo/servicemap.png",
+        "kind": "reference",
+        "title": {
+          "en": "Hubble Ui · Author preview",
+          "zh": "Hubble Ui · 作者预览"
+        },
+        "alt": {
+          "en": "Hubble Ui: Service Map",
+          "zh": "Hubble Ui：Service Map"
+        },
+        "sourcePath": "promo/servicemap.png",
+        "documentPath": "README.md",
+        "format": "image"
+      }
+    ]
+  },
+  {
     "skillSlug": "d0c-s4vage-lookatme",
     "repository": "d0c-s4vage/lookatme",
     "revision": "c05abe1804d93254e9139039937eed43fb6b49ab",
@@ -5583,6 +5715,94 @@
         },
         "sourcePath": "assets/screenshots/第3张.jpg",
         "documentPath": "README.md",
+        "format": "image"
+      }
+    ]
+  },
+  {
+    "skillSlug": "wireflowinc-skills-ai-ad-creative-generator",
+    "repository": "wireflowINC/skills",
+    "revision": "d53c94aacf6083a063bbb5cf36eb8fb34257718c",
+    "sourceUrl": "https://github.com/wireflowINC/skills/blob/d53c94aacf6083a063bbb5cf36eb8fb34257718c/skills/ai-ad-creative-generator/SKILL.md",
+    "license": "MIT",
+    "licenseUrl": "/skill-previews/auto/LICENSE-88edff8722e38e636312b21d6610c0652a4ce623e085e08e8937055c95f05f4c.txt",
+    "licenseSourcePath": "LICENSE",
+    "licenseSha256": "88edff8722e38e636312b21d6610c0652a4ce623e085e08e8937055c95f05f4c",
+    "documentSha256": "2aeca8976fc37c0383ab420d54c54a5d1462ce1b1f5d9bb7a10ed814de4b2fd2",
+    "format": {
+      "en": "Author preview",
+      "zh": "作者预览"
+    },
+    "note": {
+      "en": "Explore images and examples shared by the author. Open the original files for full-size artwork and animations.",
+      "zh": "浏览作者提供的图片与示例。打开原始文件，可查看完整尺寸的作品和动图。"
+    },
+    "collectedAt": "2026-10-13T07:47:51.178Z",
+    "media": [
+      {
+        "src": "/skill-previews/auto/68c5cbecf8d62f339573e1a42674c9b36228d4f68f4cb3ac8adaacf4a3635745.preview.webp",
+        "previewSrc": "/skill-previews/auto/68c5cbecf8d62f339573e1a42674c9b36228d4f68f4cb3ac8adaacf4a3635745.preview.webp",
+        "cardSrc": "/skill-previews/auto/68c5cbecf8d62f339573e1a42674c9b36228d4f68f4cb3ac8adaacf4a3635745.card.webp",
+        "width": 768,
+        "height": 768,
+        "sha256": "68c5cbecf8d62f339573e1a42674c9b36228d4f68f4cb3ac8adaacf4a3635745",
+        "originalSrc": "/skill-previews/auto/68c5cbecf8d62f339573e1a42674c9b36228d4f68f4cb3ac8adaacf4a3635745.jpg",
+        "sourceUrl": "https://github.com/wireflowINC/skills/blob/d53c94aacf6083a063bbb5cf36eb8fb34257718c/skills/ai-ad-creative-generator/examples/mug-ad-1x1.jpg",
+        "kind": "example",
+        "title": {
+          "en": "ai-ad-creative-generator · Author preview",
+          "zh": "ai-ad-creative-generator · 作者预览"
+        },
+        "alt": {
+          "en": "ai-ad-creative-generator: Terracotta mug ad in 1:1 with the headline Slow mornings, made better",
+          "zh": "ai-ad-creative-generator：Terracotta mug ad in 1:1 with the headline Slow mornings, made better"
+        },
+        "sourcePath": "skills/ai-ad-creative-generator/examples/mug-ad-1x1.jpg",
+        "documentPath": "skills/ai-ad-creative-generator/README.md",
+        "format": "image"
+      },
+      {
+        "src": "/skill-previews/auto/1df76fdc984270bf92c0ca7ed16fb40b20d2350609fd6f4357b5f029daf3f26f.preview.webp",
+        "previewSrc": "/skill-previews/auto/1df76fdc984270bf92c0ca7ed16fb40b20d2350609fd6f4357b5f029daf3f26f.preview.webp",
+        "cardSrc": "/skill-previews/auto/1df76fdc984270bf92c0ca7ed16fb40b20d2350609fd6f4357b5f029daf3f26f.card.webp",
+        "width": 774,
+        "height": 960,
+        "sha256": "1df76fdc984270bf92c0ca7ed16fb40b20d2350609fd6f4357b5f029daf3f26f",
+        "originalSrc": "/skill-previews/auto/1df76fdc984270bf92c0ca7ed16fb40b20d2350609fd6f4357b5f029daf3f26f.jpg",
+        "sourceUrl": "https://github.com/wireflowINC/skills/blob/d53c94aacf6083a063bbb5cf36eb8fb34257718c/skills/ai-ad-creative-generator/examples/mug-ad-4x5.jpg",
+        "kind": "example",
+        "title": {
+          "en": "ai-ad-creative-generator · Author preview",
+          "zh": "ai-ad-creative-generator · 作者预览"
+        },
+        "alt": {
+          "en": "ai-ad-creative-generator: The same mug ad in 4:5 for portrait feed",
+          "zh": "ai-ad-creative-generator：The same mug ad in 4:5 for portrait feed"
+        },
+        "sourcePath": "skills/ai-ad-creative-generator/examples/mug-ad-4x5.jpg",
+        "documentPath": "skills/ai-ad-creative-generator/README.md",
+        "format": "image"
+      },
+      {
+        "src": "/skill-previews/auto/606be379b0047bf7e45d2cd01a1ffdaa30c615e934f506b15b079ea0d1b8ad15.preview.webp",
+        "previewSrc": "/skill-previews/auto/606be379b0047bf7e45d2cd01a1ffdaa30c615e934f506b15b079ea0d1b8ad15.preview.webp",
+        "cardSrc": "/skill-previews/auto/606be379b0047bf7e45d2cd01a1ffdaa30c615e934f506b15b079ea0d1b8ad15.card.webp",
+        "width": 714,
+        "height": 1280,
+        "sha256": "606be379b0047bf7e45d2cd01a1ffdaa30c615e934f506b15b079ea0d1b8ad15",
+        "originalSrc": "/skill-previews/auto/606be379b0047bf7e45d2cd01a1ffdaa30c615e934f506b15b079ea0d1b8ad15.jpg",
+        "sourceUrl": "https://github.com/wireflowINC/skills/blob/d53c94aacf6083a063bbb5cf36eb8fb34257718c/skills/ai-ad-creative-generator/examples/mug-ad-9x16.jpg",
+        "kind": "example",
+        "title": {
+          "en": "ai-ad-creative-generator · Author preview",
+          "zh": "ai-ad-creative-generator · 作者预览"
+        },
+        "alt": {
+          "en": "ai-ad-creative-generator: The same mug ad in 9:16 for stories and reels",
+          "zh": "ai-ad-creative-generator：The same mug ad in 9:16 for stories and reels"
+        },
+        "sourcePath": "skills/ai-ad-creative-generator/examples/mug-ad-9x16.jpg",
+        "documentPath": "skills/ai-ad-creative-generator/README.md",
         "format": "image"
       }
     ]
